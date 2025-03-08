@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Rodion-77/Rodion-77.github.io.git
+	branch = main
