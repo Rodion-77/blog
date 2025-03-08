@@ -30,9 +30,23 @@ organizations:
 # Социальные сети
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: light-bulb
+    url: https://www.elibrary.ru/defaultx.asp
+  - icon: circle-stack
+    url: https://scholar.google.com/schhp?hl=ru
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0002-1679-8128
+  - icon: chart-bar
+    url: https://www.mendeley.com/search/
+  - icon: code-bracket
+    url: https://www.researchgate.net/profile/Rodion-Pavlicenko
+  - icon: circle-stack
+    url: https://independent.academia.edu/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE
+  - icon: globe-americas
+    url:  https://arxiv.org/user/
   - icon: brands/github
     url: https://github.com/Rodion-77
- 
+    
 
 interests:
   - Изучение английского языка
